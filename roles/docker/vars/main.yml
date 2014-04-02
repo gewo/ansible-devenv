@@ -5,4 +5,5 @@ docker_deps:
   - python-apt
   - python-pycurl
   - wget
+  - lxc
 docker_repository: "deb http://get.docker.io/ubuntu docker main"
